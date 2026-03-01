@@ -161,7 +161,7 @@ Ferrite is a fast, lightweight Markdown editor built with Rust and egui for a na
 
 A free, open source, cross-platform Markdown editor based on Milkdown. It can also be used to export to HTML and PDF documents.
 
-[**Inkwell**](https://github.com/4worlds4w-svg/inkwell) (FREE, open source)
+[**Inkwell**](https://github.com/4worlds4w-svg/inkwell) (open source BUT one time license to buy for paid component)
 
 Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
 
