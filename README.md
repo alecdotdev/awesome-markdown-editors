@@ -151,27 +151,23 @@ Deepdwn is an offline-only, feature-rich markdown editor for Windows, Mac and Li
 
 Supports image drag and drop, charts and diagrams, sheet music and tabs, table auto-formatting, tags and categories, and more.
 
-[**Ferrite**](https://getferrite.dev) (FREE, open source)
+[**Ferrite**](https://getferrite.dev) (FREE, open source @ github [`OlaProeis/Ferrite`](https://github.com/OlaProeis/Ferrite))
 
 Ferrite is a fast, lightweight Markdown editor built with Rust and egui for a native, responsive experience on Windows, Linux, and macOS. Features include WYSIWYG editing with live preview, native MermaidJS diagram rendering (11 diagram types), split view with dual editable panes, multi-format support (Markdown, JSON, CSV, YAML, TOML), Git integration with visual status indicators, semantic minimap, syntax highlighting for 100+ languages, 25+ color themes, multi-encoding file support, workspace mode with file tree and search, and Zen mode for distraction-free writing.
-
-[The code resides on GitHub](https://github.com/OlaProeis/Ferrite)
 
 [**GeekDown**](https://github.com/fearlessgeekmedia/geekdown). (FREE, open source)
 
 A free, open source, cross-platform Markdown editor based on Milkdown. It can also be used to export to HTML and PDF documents.
 
-[**Inkwell**](https://github.com/4worlds4w-svg/inkwell) (open source BUT one time license to buy for paid component)
+[**Inkwell**](https://github.com/4worlds4w-svg/inkwell) (one time license to buy for paid component, open source @ github [`4worlds4w-svg/inkwell`](https://github.com/4worlds4w-svg/inkwell))
 
 Inkwell is a portable, offline-first Markdown editor built with Rust and Tauri v2. A single executable (~3MB) with zero telemetry — no cloud, no account, data stays local. Features live preview, syntax highlighting, multiple themes, and cross-platform support (Windows, macOS, Linux).
 
-[The code resides on GitHub](https://github.com/4worlds4w-svg/inkwell)
 
-[**Kindling**](https://kindlingwriter.com) (FREE, open source)
+[**Kindling**](https://kindlingwriter.com) (FREE, open source @ github [`smith-and-web/kindling`](https://github.com/smith-and-web/kindling))
 
 Kindling is a novel writing app that bridges outlining and drafting. Your outline's scene beats become expandable prompts inside a focused drafting space. Built with Rust and Tauri for Windows, macOS, and Linux. All data stays local on your machine.
 
-[The code resides on GitHub](https://github.com/smith-and-web/kindling)
 
 [**KeenWrite**](https://gitlab.com/DaveJarvis/keenwrite) (FREE, open source)
 
